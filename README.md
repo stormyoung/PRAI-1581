@@ -13,9 +13,9 @@ If you use this dataset in your research, please kindly cite our work as,
   }
 ```
 ## PRAI-1581 dataset
-![](sample.jpg)
+![](./sample.jpg)
 
-The dataset package can be downloaded from the following links:
+The dataset package can be downloaded from the following link:
 
 Link：https://pan.baidu.com/s/1fVv39Vg1-yv7FdPIm55e7g 
 
